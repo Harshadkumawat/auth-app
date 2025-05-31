@@ -1,12 +1,25 @@
-# React + Vite
+# Auth App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+Auth App is a clean and simple user authentication application built with React, Redux Toolkit, and Tailwind CSS. It features secure login and signup forms, with global state management using Redux Toolkit to handle authentication state efficiently. The app is fully responsive and deployed on Vercel.
 
-Currently, two official plugins are available:
+## Features
+- User login and signup forms
+- Form validation and error handling
+- Authentication state managed globally using Redux Toolkit
+- Responsive design with Tailwind CSS
+- Deployed on Vercel for easy access
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React.js
+- Redux Toolkit
+- Tailwind CSS
+- Vercel (Deployment)
 
-## Expanding the ESLint configuration
+## Deployment
+Live demo: [https://auth-app-pied.vercel.app/login](https://auth-app-pied.vercel.app/login)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Author
+Harshad Kumawat
+
+
